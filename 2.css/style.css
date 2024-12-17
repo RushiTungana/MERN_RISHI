@@ -1,0 +1,42 @@
+button{
+    color: rgb(255, 153, 0);
+    font-size: larger;
+    border-radius: 25px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+video{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    opacity: 65%;
+}
+.REGISTRATION{
+    position: absolute;
+    color:red;
+    border-radius: 40px;
+    font-size: medium;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.LOCATION{
+    position: absolute;
+    top: 10;
+    color: blue;
+    border-radius: 40px;
+    font-size: medium;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: crimson;
+}
+:hover.LOCATION{
+    cursor: pointer;
+    border: radius 10px;
+    color: brown;
+    
+}
